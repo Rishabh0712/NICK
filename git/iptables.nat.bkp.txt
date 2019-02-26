@@ -1,0 +1,23 @@
+Chain PREROUTING (policy ACCEPT)
+target     prot opt source               destination         
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:http redir ports 3333
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:https redir ports 3333
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:telnets redir ports 59263
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:urd redir ports 59264
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:pop3s redir ports 59265
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:nntps redir ports 59266
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:ldaps redir ports 59267
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:994 redir ports 59268
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:imaps redir ports 59269
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:http-alt redir ports 59270
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:https redir ports 59271
+REDIRECT   tcp  --  anywhere             anywhere             tcp dpt:ftps redir ports 59272
+
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination         
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination         
+
+Chain POSTROUTING (policy ACCEPT)
+target     prot opt source               destination         

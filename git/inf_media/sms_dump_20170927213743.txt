@@ -1,0 +1,1186 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2017-09-27 21:37:43 +0530
+OS: Android 7.1.1 - Linux 3.18.35+ (armv7l)
+Remote IP: 192.168.43.215
+Remote Port: 38545
+
+#1
+Type	: Incoming
+Date	: 2017-09-27 15:22:04
+Address	: HP-THYOCR
+Status	: NOT_RECEIVED
+Message	: Today Offer Body check up like KFt,Lft, Thyroid, Vitamin D&B12,Iron,Diabetes,Lipid,Renal, Homoeysteine 82 Test. Get 1 movie ticket Price-1500/ Call- 7838808994
+
+#2
+Type	: Incoming
+Date	: 2017-09-27 13:07:53
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: Awards season is rewards season - dont miss out! iPhone 7, Samsung S8, smartwatches and gift vouchers up to Rs.20,000 are waiting for you! HURRY! Download the ABG Awards app now & participate to win. Link: http://onelink.to/abgawards
+
+#3
+Type	: Incoming
+Date	: 2017-09-27 12:33:53
+Address	: VM-MTAPZO
+Status	: NOT_RECEIVED
+Message	: CONGRATS! You've got Rs 10 Tapzo Cash. Use it to recharge before it expires in 48 hrs. Also get Flat 50% cashback on recharge using code 50RCH- goo.gl/KVseYU
+
+#4
+Type	: Incoming
+Date	: 2017-09-27 12:25:49
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Hi, You have not yet participated in the Facility Survey, please attempt the survey today itself and give your valuable feedback. Team Facilities
+
+#5
+Type	: Outgoing
+Date	: 2017-09-27 12:17:09
+Address	: 9910388499
+Status	: NOT_RECEIVED
+Message	: Please WhatsApp byan copy
+
+#6
+Type	: Incoming
+Date	: 2017-09-27 12:01:03
+Address	: VM-SHURET
+Status	: NOT_RECEIVED
+Message	: Earn Rs. 1.5 Lac Per Month By Investing in BANK SPACE in Heart of Gurgaon @1.5Cr with 10% Lease Guarantee Only 5 Units Available Call 9250404636
+
+#7
+Type	: Outgoing
+Date	: 2017-09-27 11:28:41
+Address	: +919990009410
+Status	: NOT_RECEIVED
+Message	: Lav@12345
+
+#8
+Type	: Outgoing
+Date	: 2017-09-27 11:28:16
+Address	: +919990009410
+Status	: NOT_RECEIVED
+Message	: 029003
+
+#9
+Type	: Outgoing
+Date	: 2017-09-27 11:27:19
+Address	: +919990009410
+Status	: NOT_RECEIVED
+Message	: Sir, please approve PO No. 11517401764
+
+#10
+Type	: Incoming
+Date	: 2017-09-27 11:15:43
+Address	: HP-MUNAFA
+Status	: NOT_RECEIVED
+Message	: Earn Rs 10000 Monthly Invest Rs 11Lac Get Assured Return Guaranteed Rental for 25 years PVR, Max, Lifestyle Signed CentralNoida Opp Metro Jn. Call- 9268700742
+
+#11
+Type	: Incoming
+Date	: 2017-09-27 11:04:08
+Address	: +919911005450
+Status	: NOT_RECEIVED
+Message	: Sir, please approve PO No. 11517401764
+
+#12
+Type	: Incoming
+Date	: 2017-09-27 09:54:17
+Address	: VM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 27-Sep-17. Info: NFS*CASH WDL*27-09-17. The Available Balance is INR 54,784.59.
+
+#13
+Type	: Incoming
+Date	: 2017-09-27 09:53:50
+Address	: VM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 27-Sep-17. Info: NFS*CASH WDL*27-09-17. The Available Balance is INR 64,784.59.
+
+#14
+Type	: Incoming
+Date	: 2017-09-27 09:41:49
+Address	: HP-Smhome
+Status	: NOT_RECEIVED
+Message	: #notification Pradhan Mantri Awas Yojna urban ke samarthan main Delhi Awas Mission by 2021 Price 18L Location-Dwarka Reg Open LIG/MIG/HIG 180030000663
+
+#15
+Type	: Incoming
+Date	: 2017-09-27 08:51:20
+Address	: +919911005450
+Status	: NOT_RECEIVED
+Message	: +919810246997
+
+#16
+Type	: Incoming
+Date	: 2017-09-27 08:43:04
+Address	: ID-EPFOHO
+Status	: NOT_RECEIVED
+Message	: EPF Contribution of Rs. 22222 against UAN 100204458656 for due month 082017 has been received on 14-SEP-17.Passbook will be updated shortly.
+
+#17
+Type	: Incoming
+Date	: 2017-09-26 20:03:11
+Address	: +919911005450
+Status	: NOT_RECEIVED
+Message	: [Name]AS Enterprises Prateek; [Phone]+918057177566;
+
+#18
+Type	: Incoming
+Date	: 2017-09-26 19:20:59
+Address	: ID-EPFOHO
+Status	: NOT_RECEIVED
+Message	: Dear Member, Your Aadhaar details - XXXX XXXX 4768 against UAN XXXX XXXX 8656 has successfully been verified. Online services linked with Aadhaar in particular online claim services can be availed. Regards EPFO
+
+#19
+Type	: Incoming
+Date	: 2017-09-26 18:59:07
+Address	: +919911005450
+Status	: NOT_RECEIVED
+Message	: Sir, Prateek (As enterprises) is sending, please share the delivery address
+
+#20
+Type	: Incoming
+Date	: 2017-09-26 18:27:36
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Dear Friend, Please do not forget to be dressed in traditional attire for Dandia Night tomorrow at 4:30PM onwards at Noida RO. Regards Delhi HR Team
+
+#21
+Type	: Incoming
+Date	: 2017-09-26 17:50:02
+Address	: HP-SHIVAT
+Status	: NOT_RECEIVED
+Message	: Festive Offer! This Navratri/ Diwali Shiva Mahindra brings exciting offers on all Mahindra vehicles. To know TUV 3OO/ SCORPIO exclusive festive offer call on 7428251915, 9311990342 Regards Shiva Mahindra Delhi
+
+#22
+Type	: Incoming
+Date	: 2017-09-26 16:44:01
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Be Reminded that tommorrow we are celebrating Dandia Raas.. Let's be in traditional attire of Dandiya Raas.
+
+#23
+Type	: Incoming
+Date	: 2017-09-26 14:27:56
+Address	: IM-XXAMEX
+Status	: NOT_RECEIVED
+Message	: As of 25SEP2017, you have used your Amex Membership Rewards Credit Card once this month for a single purchase of Rs. 1000 or more. Do 3 more transactions of Rs. 1000 or more and get 1000 Bonus Points. T&Cs apply
+
+#24
+Type	: Incoming
+Date	: 2017-09-26 14:07:54
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: Love playing games? Download the ABG Awards app to play and win! Test your balance skills and even play a board game with your global colleagues to win an iPhone 7 and other prizes! Get it here - http://onelink.to/abgawards
+
+#25
+Type	: Incoming
+Date	: 2017-09-26 13:00:10
+Address	: VM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 26-Sep-17. Info: NFS*CASH WDL*26-09-17. The Available Balance is INR 74,784.59.
+
+#26
+Type	: Incoming
+Date	: 2017-09-26 12:59:11
+Address	: IM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 26-Sep-17. Info: NFS*CASH WDL*26-09-17. The Available Balance is INR 84,784.59.
+
+#27
+Type	: Incoming
+Date	: 2017-09-26 12:58:35
+Address	: VK-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 26-Sep-17. Info: NFS*CASH WDL*26-09-17. The Available Balance is INR 94,784.59.
+
+#28
+Type	: Incoming
+Date	: 2017-09-26 11:46:43
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Alert : Dear customer, Pls do not hand over your credit card ending with 0268 and pin to any one, under any circumstances
+
+#29
+Type	: Incoming
+Date	: 2017-09-26 11:07:54
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: Are you playing Web Bingo? Download the ABG Awards app and play everyday to win grand prizes! iPhone 7 and gift vouchers worth Rs. 15,000 up for grabs! Get it here - http://onelink.to/abgawards
+
+#30
+Type	: Incoming
+Date	: 2017-09-26 07:30:52
+Address	: VK-HDFCBK
+Status	: NOT_RECEIVED
+Message	: One Time Password(OTP) for HDFC Bank Credit Card ending with 0268 is 490015 Please use this OTP at HDFC Bank ATM to create your ATM PIN before 21Oct17.
+
+#31
+Type	: Incoming
+Date	: 2017-09-25 20:29:08
+Address	: VM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 8,000.00 on 25-Sep-17. Info: NFS*CASH WDL*25-09-17. The Available Balance is INR 1,04,784.59.
+
+#32
+Type	: Incoming
+Date	: 2017-09-25 20:28:31
+Address	: IM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 25-Sep-17. Info: NFS*CASH WDL*25-09-17. The Available Balance is INR 1,12,784.59.
+
+#33
+Type	: Incoming
+Date	: 2017-09-25 20:27:46
+Address	: VM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 2,000.00 on 25-Sep-17. Info: NFS*CASH WDL*25-09-17. The Available Balance is INR 1,22,784.59.
+
+#34
+Type	: Incoming
+Date	: 2017-09-25 20:26:49
+Address	: DM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been credited with INR 10,000.00 on 25-Sep-17. Info: NFS*WDL RVSL*25-09-17*003101. The Available Balance is INR 1,24,784.59.
+
+#35
+Type	: Incoming
+Date	: 2017-09-25 20:26:32
+Address	: VM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 25-Sep-17. Info: NFS*CASH WDL*25-09-17. The Available Balance is INR 1,14,784.59.
+
+#36
+Type	: Incoming
+Date	: 2017-09-25 19:51:43
+Address	: IM-LENSKT
+Status	: NOT_RECEIVED
+Message	: Hi,Happy with your Lenskart order?Please take 30 secs to give us feedback.Thanks! http://nps.bz/LENSKART-1744116-1
+
+#37
+Type	: Outgoing
+Date	: 2017-09-25 17:10:02
+Address	: +919911005001
+Status	: NOT_RECEIVED
+Message	: I'm in hospital Please coordinate with Vishal
+
+#38
+Type	: Incoming
+Date	: 2017-09-25 17:09:29
+Address	: +919911005001
+Status	: NOT_RECEIVED
+Message	: Bhaji need leaflet vendor urgently. These are to be printed tonight for the event. Thanks
+
+#39
+Type	: Outgoing
+Date	: 2017-09-25 17:08:35
+Address	: +919911005001
+Status	: NOT_RECEIVED
+Message	: I'll call you later.
+
+#40
+Type	: Outgoing
+Date	: 2017-09-25 14:53:02
+Address	: +919891005915
+Status	: NOT_RECEIVED
+Message	: I m in hospital, please coordinate with Vishal
+
+#41
+Type	: Incoming
+Date	: 2017-09-25 14:51:47
+Address	: +919891005915
+Status	: NOT_RECEIVED
+Message	: Hi Sir, We have huge pressure from Corporate on Postpaid RV completion,We want to initiate agency closure asap.Request your support.
+
+#42
+Type	: Incoming
+Date	: 2017-09-25 13:23:39
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: ABG Awards season is rewards season! Download the ABG Awards app and participate to win! iPhone 7, 4 smartwatches and gift vouchers up to Rs. 20,000 up for grabs. Download here: http://onelink.to/abgawards
+
+#43
+Type	: Outgoing
+Date	: 2017-09-25 12:05:02
+Address	: 9910388499
+Status	: NOT_RECEIVED
+Message	: We are on the way to dadri
+
+#44
+Type	: Outgoing
+Date	: 2017-09-25 11:31:28
+Address	: 9910388499
+Status	: NOT_RECEIVED
+Message	: R V North Land Dadri
+
+#45
+Type	: Incoming
+Date	: 2017-09-25 11:25:36
+Address	: +919911005203
+Status	: NOT_RECEIVED
+Message	: OK sir
+
+#46
+Type	: Incoming
+Date	: 2017-09-25 11:20:52
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Careers are Awesome @ ABG! Take control of your career. Tips for effective Career Conversation with your manager, Context Setting, Exploration, Conversions, Commitment. Celebrating Career Day!! Team HR
+
+#47
+Type	: Outgoing
+Date	: 2017-09-25 11:06:06
+Address	: +919911005203
+Status	: NOT_RECEIVED
+Message	: I'm in hospital, pls coordinate with Vishal
+
+#48
+Type	: Incoming
+Date	: 2017-09-25 10:56:45
+Address	: +919911005203
+Status	: NOT_RECEIVED
+Message	: Sir need your urgent help... Pls call back once u get free
+
+#49
+Type	: Incoming
+Date	: 2017-09-24 18:25:07
+Address	: +919910388499
+Status	: NOT_RECEIVED
+Message	: 97567 02133 Beenu singh si
+
+#50
+Type	: Incoming
+Date	: 2017-09-24 16:14:11
+Address	: HP-FACCPT
+Status	: NOT_RECEIVED
+Message	: Recharge your electricity and CAM on Paytm and get Rs 10% Cashback (Upto 75/-). Min recharge of Rs 500 using code SUPERTECH (Upto-6 Sept) Team Facility Capetown
+
+#51
+Type	: Incoming
+Date	: 2017-09-24 12:50:04
+Address	: IM-MYAMEX
+Status	: NOT_RECEIVED
+Message	: A charge of INR 243.08 has been initiated on your American Express Card No. ***11006 at MCDONALD-GAJRAULA UP on 24/09/2017 at 12:50PM IST.
+
+#52
+Type	: Incoming
+Date	: 2017-09-24 10:19:54
+Address	: IP-IDEA
+Status	: NOT_RECEIVED
+Message	: Welcome to high speed Idea 4G LTE network-Uttar Pradesh West! Standard roaming charges - Incoming Free, Outgoing 80p/Rs1.15 per min for Local/STD calls, 25p/38p for Local/STD sms. Enjoy home data pack benefits while on roaming, at no extra charge ! Idea Uttar Pradesh West Helpline no.12345 Tollfree
+
+#53
+Type	: Incoming
+Date	: 2017-09-23 21:18:09
+Address	: VM-IPAYTM
+Status	: NOT_RECEIVED
+Message	: Added Rs. 50 to your Paytm wallet. Transaction ID: 14900509542. Current Balance: 55.0. Mera Cashback Sale Live Now http://m.p-y.tm/hom .
+
+#54
+Type	: Incoming
+Date	: 2017-09-23 21:18:04
+Address	: IM-MYAMEX
+Status	: NOT_RECEIVED
+Message	: A charge of INR 50.00 has been initiated on your American Express Card No. ***11006 at PAYTM COM WALLET PG on 23/09/2017 at 09:18PM IST.
+
+#55
+Type	: Incoming
+Date	: 2017-09-23 21:17:27
+Address	: IM-MYAMEX
+Status	: NOT_RECEIVED
+Message	: 736898 is your One Time Password for online purchase, Amex card ending 11006, if not requested call the number on back of card. 23/Sep/2017, 21:17 IST.
+
+#56
+Type	: Outgoing
+Date	: 2017-09-23 20:56:20
+Address	: 8909902760
+Status	: NOT_RECEIVED
+Message	: Please SMS your alternate number
+
+#57
+Type	: Incoming
+Date	: 2017-09-23 20:40:23
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Great
+
+#58
+Type	: Outgoing
+Date	: 2017-09-23 20:28:18
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Dear Sir Thanks for your support Hope things are now on track. Rgd
+
+#59
+Type	: Outgoing
+Date	: 2017-09-23 20:26:37
+Address	: 9910388499
+Status	: NOT_RECEIVED
+Message	: Dear Please SMS Binnu number I lost the paper write his number.
+
+#60
+Type	: Outgoing
+Date	: 2017-09-23 19:44:39
+Address	: 8077757326
+Status	: NOT_RECEIVED
+Message	: Pradeep driver Modinagar will reach at 9 am tmr His no, +919756908748 Please coordinate
+
+#61
+Type	: Incoming
+Date	: 2017-09-23 19:14:41
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: Download the GetFit ABG app and win big! It's the easiest way to be healthy and win big prizes. Download now - http://onelink.to/getfitabg
+
+#62
+Type	: Incoming
+Date	: 2017-09-23 16:12:37
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: Use your weekend to win smartphones and gift vouchers up to Rs. 20,000! Download the Awards app and submit entries for ABG's Got Talent and other competitions! Download here: http://onelink.to/abgawards
+
+#63
+Type	: Incoming
+Date	: 2017-09-23 13:17:46
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Dear HDFC Bank Card member, Rs 7.5 has been credited on your credit card ending 0268 from AUTO CARE GHAZIABAD IND on 22/SEP/2017.
+
+#64
+Type	: Incoming
+Date	: 2017-09-23 12:07:34
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Careers are Awesome @ ABG! Take control of your career. Tips for effective Career Conversation with your manager, Context Setting, Exploration, Conversions, Commitment. Celebrating Career Day!! Team HR
+
+#65
+Type	: Incoming
+Date	: 2017-09-23 11:19:19
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Alert : Dear customer, Pls do not hand over your credit card ending with 0268 and pin to any one, under any circumstances
+
+#66
+Type	: Outgoing
+Date	: 2017-09-23 09:47:16
+Address	: 9910388499
+Status	: NOT_RECEIVED
+Message	: Please meet at 11 am
+
+#67
+Type	: Incoming
+Date	: 2017-09-23 09:38:21
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Dear HDFCBank Cardmember, Your Card ending 0268 is sent thru BLUE DART AWB # 34557895260 DT-21/09/2017
+
+#68
+Type	: Incoming
+Date	: 2017-09-22 19:35:44
+Address	: DM-ICICIB
+Status	: NOT_RECEIVED
+Message	: प्रिय ग्राहक, अपने सारे भुगतान, जैसे किसी को पैसा भेजना, बिल भुगतान, रिचार्ज और अन्य के लिए iMobile का उपयोग कीजिए. अभी डाउनलोड करें -mobile.icicibank.com/dl पर.
+
+#69
+Type	: Outgoing
+Date	: 2017-09-22 19:15:21
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sir Any progress
+
+#70
+Type	: Incoming
+Date	: 2017-09-22 18:48:50
+Address	: VM-UBERIN
+Status	: NOT_RECEIVED
+Message	: Dear Rider, POOL surprise discounted fares are now applicable on inter-state trips across NCR. Ride POOL at upto 50% off the price of uberGO: t.uber.com/s50
+
+#71
+Type	: Outgoing
+Date	: 2017-09-22 17:53:13
+Address	: 9891910125
+Status	: NOT_RECEIVED
+Message	: H/W for class XI-C: ENG-Read 'Browning Version' Hornbill for class discussion tomorrow -SLPS
+
+#72
+Type	: Incoming
+Date	: 2017-09-22 17:52:44
+Address	: AD-SLPSGZ
+Status	: NOT_RECEIVED
+Message	: H/W for class XI-C: ENG-Read 'Browning Version' Hornbill for class discussion tomorrow -SLPS
+
+#73
+Type	: Outgoing
+Date	: 2017-09-22 17:50:33
+Address	: 9990035224
+Status	: NOT_RECEIVED
+Message	: Please call when ever you free.
+
+#74
+Type	: Incoming
+Date	: 2017-09-22 17:07:54
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: A new chance for you to win an iPhone 7! Download the ABG Awards app and submit a creative use for Paper Cups in Hack-i-pedia! Download now - http://onelink.to/abgawards
+
+#75
+Type	: Incoming
+Date	: 2017-09-22 14:08:07
+Address	: ABG_AWARDS
+Status	: NOT_RECEIVED
+Message	: Download the ABG Awards App and win! Eight iPhone 7 and four Samsung S8 phones, eight smartwatches, ten Fitbits and many gift vouchers up to Rs. 20,000 are up for grabs. Get it here: http://onelink.to/abgawards
+
+#76
+Type	: Outgoing
+Date	: 2017-09-22 13:08:15
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Please ask for registered FIR at thana kavinagar gzb
+
+#77
+Type	: Incoming
+Date	: 2017-09-22 12:22:59
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Dear HDFC Bank Card member, Rs 7.5 has been credited on your credit card ending 0268 from AUTO CARE GHAZIABAD IND on .
+
+#78
+Type	: Incoming
+Date	: 2017-09-22 11:46:44
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Careers are Awesome @ ABG! Take control of your career. Tips for effective Career Conversation with your Manager, Context Setting, Exploration, Conversions, Commitment. Celebrating Career Day!! Team HR
+
+#79
+Type	: Incoming
+Date	: 2017-09-22 11:35:29
+Address	: RM-UBERIN
+Status	: NOT_RECEIVED
+Message	: Cheers to the weekend with 50% off 3 uberGO rides in Delhi NCR, until September 24. Use code 'DELHI50X3'. Max discount per ride is Rs 50. Hit the road now!
+
+#80
+Type	: Incoming
+Date	: 2017-09-22 10:47:27
+Address	: RM-ABESEC
+Status	: NOT_RECEIVED
+Message	: Dear Parent, Ur ward RISHABH KUMAR's 21/09/2017 attendance (Attended Classes/Total classes) is : Total (0/8) Total Percentage(0.0) ABESEC
+
+#81
+Type	: Incoming
+Date	: 2017-09-21 21:40:39
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Manish Misra PPS 09956181826
+
+#82
+Type	: Incoming
+Date	: 2017-09-21 20:48:39
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Wait
+
+#83
+Type	: Outgoing
+Date	: 2017-09-21 20:48:19
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sir Any news
+
+#84
+Type	: Incoming
+Date	: 2017-09-21 18:30:55
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Dear HDFC Bank Card member, Rs 7.5 has been credited on your credit card ending 0268 from AUTO CARE GHAZIABAD IND on 15/SEP/2017.
+
+#85
+Type	: Incoming
+Date	: 2017-09-21 15:32:02
+Address	: RM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Dear Customer,Generate credit card PIN instantly by calling 18602660333 or through Net Banking or visit HDFC ATM to generate PIN using OTP sent to your mobile
+
+#86
+Type	: Outgoing
+Date	: 2017-09-21 14:13:07
+Address	: 9891910125
+Status	: NOT_RECEIVED
+Message	: Shikha new number 7417991327
+
+#87
+Type	: Incoming
+Date	: 2017-09-21 13:00:46
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: I m there
+
+#88
+Type	: Incoming
+Date	: 2017-09-21 12:09:06
+Address	: VM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: One Time Password(OTP) for HDFC Bank Credit Card ending with 0268 is 490015 Please use this OTP at HDFC Bank ATM to create your ATM PIN before 21Oct17.
+
+#89
+Type	: Outgoing
+Date	: 2017-09-21 11:36:19
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sir Any update
+
+#90
+Type	: Incoming
+Date	: 2017-09-20 16:49:33
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Ok
+
+#91
+Type	: Outgoing
+Date	: 2017-09-20 16:49:05
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Thanks Sir, Pls SSP ko phone bhi Kara Dena
+
+#92
+Type	: Incoming
+Date	: 2017-09-20 16:39:30
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Waiting for meating with ADG
+
+#93
+Type	: Incoming
+Date	: 2017-09-20 16:01:03
+Address	: +919990035301
+Status	: NOT_RECEIVED
+Message	: 9935221331
+
+#94
+Type	: Outgoing
+Date	: 2017-09-20 15:59:13
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sir Any update
+
+#95
+Type	: Outgoing
+Date	: 2017-09-20 15:56:48
+Address	: 9990035301
+Status	: NOT_RECEIVED
+Message	: Pls SMS Hajaria number
+
+#96
+Type	: Incoming
+Date	: 2017-09-20 14:38:01
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: sir we have to file complaint FIR will follow
+
+#97
+Type	: Outgoing
+Date	: 2017-09-20 14:25:07
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: But in general Police not registered complaint. that's​why I am looking good link in UP government.
+
+#98
+Type	: Incoming
+Date	: 2017-09-20 14:17:10
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Please file complaint
+
+#99
+Type	: Incoming
+Date	: 2017-09-20 14:15:43
+Address	: VM-AAPTTS
+Status	: NOT_RECEIVED
+Message	: M3M Heights ? RERA Compliant Project with Premium 2/3BHK Aptts on Golf Course Extension Road, Gurgaon with Assured Buy Back! For Best Deals call 7053128455
+
+#100
+Type	: Outgoing
+Date	: 2017-09-20 13:49:33
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Sir Any progress
+
+#101
+Type	: Incoming
+Date	: 2017-09-20 13:08:11
+Address	: Admin
+Status	: NOT_RECEIVED
+Message	: Dear Lav Kumar, Greetings from Security Desk. We have sumit from Oasis Infrastructure Pvt Ltd. waiting for you at the reception. We understand that the guest is having a scheduled meeting with yourself. Visitor's contact number is 9914099570. Please advice the reception so that the guest can be guided to the meeting venue. Regards Team Admin
+
+#102
+Type	: Incoming
+Date	: 2017-09-20 13:08:06
+Address	: Admin
+Status	: NOT_RECEIVED
+Message	: Dear Lav Kumar, Greetings from Security Desk. We have Aseem Gupta from Oasis Infrastructure Pvt Ltd. waiting for you at the reception. We understand that the guest is having a scheduled meeting with yourself. Visitor's contact number is 9915991272. Please advice the reception so that the guest can be guided to the meeting venue. Regards Team Admin
+
+#103
+Type	: Incoming
+Date	: 2017-09-20 12:32:26
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Careers are Awesome @ ABG! Take control of your career, Create a vision for yourself and then break it down into steps, and take one step at a time and Xplore A World of Opportunities within the Group. Team HR
+
+#104
+Type	: Incoming
+Date	: 2017-09-20 12:30:16
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Careers are Awesome @ ABG! Take control of your career, Create a vision for yourself and then break it down into steps, and take one step at a time and Xplore A World of Opportunities within the Group. Team HR
+
+#105
+Type	: Incoming
+Date	: 2017-09-20 11:44:41
+Address	: Admin
+Status	: NOT_RECEIVED
+Message	: Dear Lav Kumar, Greetings from Security Desk. We have Sanjeev from East comp waiting for you at the reception. We understand that the guest is having a scheduled meeting with yourself. Visitor's contact number is 9811009700. Please advice the reception so that the guest can be guided to the meeting venue. Regards Team Admin
+
+#106
+Type	: Incoming
+Date	: 2017-09-20 11:20:05
+Address	: IM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: HDFCBank Cr Card ending 7968 is blocked as requested.Incase of any misuse on card, pl file police complaint and send the Dispute Form.Visit hdfcbank.com
+
+#107
+Type	: Outgoing
+Date	: 2017-09-20 11:07:35
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: SSP Ghaziabad- Mr. Hari Narain Singh
+
+#108
+Type	: Incoming
+Date	: 2017-09-20 11:05:40
+Address	: DM-IGLDEL
+Status	: NOT_RECEIVED
+Message	: Dear Customer, On first Instance, Customer can lodge their Grievance with 24x7 IGL Customer Care Toll Free Nos. 1800-102-5109/1800-180-5109. If not resolved at Customer Care, please contact next level as per sequence after passing of 15 days at each level:1st Level: Incharge Customer Complaint Cell (011-26106021), 2nd Level: Nodal Officer (011-26106022), 3rd Level: Appellate Authority (011-26106023). Customer Care, IGL
+
+#109
+Type	: Incoming
+Date	: 2017-09-20 10:52:15
+Address	: IM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Dear Card Member, this is to confirm that your HDFCBank credit card ending ****7968 has been blocked for security reasons.
+
+#110
+Type	: Outgoing
+Date	: 2017-09-20 10:44:30
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Dharmendra singh A42, gali no 2, sushila garden, Mandoli extn. Delhi
+
+#111
+Type	: Outgoing
+Date	: 2017-09-20 10:43:30
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Thana Kavi Nagar Ghaziabad
+
+#112
+Type	: Outgoing
+Date	: 2017-09-20 10:37:05
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: FIR not register
+
+#113
+Type	: Incoming
+Date	: 2017-09-20 10:36:19
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Police station
+
+#114
+Type	: Outgoing
+Date	: 2017-09-20 10:27:57
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Shikha d/o Lav Kumar SC 243 Shastri Nagar Ghaziabad (UP)
+
+#115
+Type	: Incoming
+Date	: 2017-09-20 10:22:10
+Address	: +919915776899
+Status	: NOT_RECEIVED
+Message	: Please send details Name and address please
+
+#116
+Type	: Incoming
+Date	: 2017-09-20 08:04:08
+Address	: IM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Rs.550.00 was spent on ur HDFCBank CREDIT Card ending 7968 on 2017-09-20:08:04:01 at PAYTMWAL1210203.Avl bal - Rs.116335.00, curr o/s - Rs.83665.00
+
+#117
+Type	: Incoming
+Date	: 2017-09-20 08:04:04
+Address	: VK-iPaytm
+Status	: NOT_RECEIVED
+Message	: Added Rs. 550 to your Paytm wallet. Transaction ID: 14725633874. Current Balance: 550.0. Mera Cashback Sale Live Now http://m.p-y.tm/hom .
+
+#118
+Type	: Incoming
+Date	: 2017-09-20 08:03:54
+Address	: VK-HDFCBK
+Status	: NOT_RECEIVED
+Message	: OTP is 187449 for txn of INR 550.00 at ONE97 COMMUNICATIONS LTD on card ending 7968. Valid till 08:06:53. Do not share OTP for security reasons.
+
+#119
+Type	: Incoming
+Date	: 2017-09-20 07:50:00
+Address	: VK-iPaytm
+Status	: NOT_RECEIVED
+Message	: We have received a Paytm login request from a new phone at 07:49 AM, 20 September.If you did not attempt this, please raise a query at paytm.com/care or call us at 0120-3888388
+
+#120
+Type	: Incoming
+Date	: 2017-09-20 07:49:54
+Address	: VK-iPaytm
+Status	: NOT_RECEIVED
+Message	: Use 790345 as your login OTP. OTP is confidential. Paytm never calls you asking for OTP. Sharing it with anyone gives them full access to your Paytm Wallet.
+
+#121
+Type	: Incoming
+Date	: 2017-09-19 21:57:57
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Dont worry sir
+
+#122
+Type	: Outgoing
+Date	: 2017-09-19 20:55:09
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sir Pls Kal SSP ko phone or Adesh Kara Dena. I'm in great trouble pls help. Thanks
+
+#123
+Type	: Incoming
+Date	: 2017-09-19 19:32:48
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Received
+
+#124
+Type	: Outgoing
+Date	: 2017-09-19 19:30:11
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sir Pls confirm
+
+#125
+Type	: Outgoing
+Date	: 2017-09-19 19:12:05
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Email sent pls re check & confirm
+
+#126
+Type	: Incoming
+Date	: 2017-09-19 19:11:03
+Address	: +919990035301
+Status	: NOT_RECEIVED
+Message	: Sandeep.saxena@amartech Co.in
+
+#127
+Type	: Incoming
+Date	: 2017-09-19 19:09:19
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Sandeep.saxena@amartech.co.in
+
+#128
+Type	: Outgoing
+Date	: 2017-09-19 19:09:10
+Address	: 9990035301 
+Status	: NOT_RECEIVED
+Message	: Pls SMS email id
+
+#129
+Type	: Outgoing
+Date	: 2017-09-19 19:06:03
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Sandeep.saxena@amatech.co.in. Pls re confirm your email id
+
+#130
+Type	: Incoming
+Date	: 2017-09-19 19:01:33
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Mail not received
+
+#131
+Type	: Outgoing
+Date	: 2017-09-19 18:55:09
+Address	: 8756544444
+Status	: NOT_RECEIVED
+Message	: Mail sent from Surajkg1968 please confirm
+
+#132
+Type	: Incoming
+Date	: 2017-09-19 18:50:00
+Address	: +919826470440
+Status	: NOT_RECEIVED
+Message	: Sham Kumar +919855922222
+
+#133
+Type	: Incoming
+Date	: 2017-09-19 18:47:31
+Address	: +919826470440
+Status	: NOT_RECEIVED
+Message	: Sham Kumar 09915776899
+
+#134
+Type	: Incoming
+Date	: 2017-09-19 18:25:59
+Address	: +918756544444
+Status	: NOT_RECEIVED
+Message	: Sandeep.saxena@amatech.co.in
+
+#135
+Type	: Incoming
+Date	: 2017-09-19 18:19:21
+Address	: +919990035320
+Status	: NOT_RECEIVED
+Message	: Name: OFC Shyam Kripa Meena Phone: ‭+919829550678‬
+
+#136
+Type	: Incoming
+Date	: 2017-09-19 18:11:19
+Address	: DM-IGLDEL
+Status	: NOT_RECEIVED
+Message	: Invoice Reminder SMS Dear Customer, Your PNG Bill for BP no. 5000074665 of Rs. 4760.76 /- is due on 21/09/2017 . You can also pay using Insta Pay online. Kindly ignore if already paid. Regards, IGL
+
+#137
+Type	: Incoming
+Date	: 2017-09-19 14:20:47
+Address	: +919650456004
+Status	: NOT_RECEIVED
+Message	: Good afternoon Sir pritam from grow ad regarding showroom metal and wooden fixture works. I have also meet before 02 years for same works while I am on job. Now I have started own work and work with many brands like whirpool , haire , Yokohama, so please provide time for meeting.
+
+#138
+Type	: Outgoing
+Date	: 2017-09-19 11:03:03
+Address	: 9990009410
+Status	: NOT_RECEIVED
+Message	: Sector 1 house no 195
+
+#139
+Type	: Incoming
+Date	: 2017-09-19 10:53:24
+Address	: IM-HDFCBK
+Status	: NOT_RECEIVED
+Message	: Rs.1000.00 was spent on ur HDFCBank CREDIT Card ending 7968 on 2017-09-19:10:53:16 at AUTO CARE..Avl bal - Rs.116885.00, curr o/s - Rs.83115.00
+
+#140
+Type	: Incoming
+Date	: 2017-09-19 10:52:32
+Address	: IM-MYAMEX
+Status	: NOT_RECEIVED
+Message	: "Dear Customer, your statement for AMEX Card **********11006 has been generated. Min payment Rs.181.00/total payment Rs.3,616.68 is due by 09/10/17."
+
+#141
+Type	: Incoming
+Date	: 2017-09-18 20:02:02
+Address	: IM-SPARHM
+Status	: NOT_RECEIVED
+Message	: SPAR MANGAL MANDI ! Eat healthy, Click this link http://bit.ly/2jD68Bi to view offers on Fruits & Veggies. T&C To opt out give missed call to +918039275834
+
+#142
+Type	: Incoming
+Date	: 2017-09-18 19:43:07
+Address	: IM-IDEA
+Status	: NOT_RECEIVED
+Message	: Dear Lav Kumar, One Week.. Loads of games.. Loads of participation.. Loads of fun..! Thank you for creating a Yet another happening and memorable week! Learning is a treasure, wherever you go it follows, Happy Learning, Happy Living! - MDF & Sales training team
+
+#143
+Type	: Incoming
+Date	: 2017-09-18 18:46:23
+Address	: +918077757326
+Status	: NOT_RECEIVED
+Message	: Shikha new number 7417991327
+
+#144
+Type	: Incoming
+Date	: 2017-09-18 18:45:08
+Address	: IDEA-HR
+Status	: NOT_RECEIVED
+Message	: Dear Friends, Bringing alive A World of Opportunities. Career Fest is here! Keep watching the space to know more. Team HR
+
+#145
+Type	: Incoming
+Date	: 2017-09-18 17:36:15
+Address	: +919990009410
+Status	: NOT_RECEIVED
+Message	: Dharmendra singh A42, gali no 2, sushila garden, Mandoli extn.
+
+#146
+Type	: Incoming
+Date	: 2017-09-18 17:34:54
+Address	: +919911005690
+Status	: NOT_RECEIVED
+Message	: Sir for both numbers
+
+#147
+Type	: Incoming
+Date	: 2017-09-18 17:34:42
+Address	: +919911005690
+Status	: NOT_RECEIVED
+Message	: Dharmendra singh A42, gali no 2, sushila garden, Mandoli extn.
+
+#148
+Type	: Incoming
+Date	: 2017-09-18 15:10:53
+Address	: DM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been credited with INR 1,00,000.00 on 18-Sep-17. Info: NEFT-N261170370091302-BAJAJ . The Available Balance is INR 1,24,784.59.
+
+#149
+Type	: Incoming
+Date	: 2017-09-18 13:00:45
+Address	: +919619661126
+Status	: NOT_RECEIVED
+Message	: Sir, not received any new order. Please help if any indent is raised.
+
+#150
+Type	: Incoming
+Date	: 2017-09-18 12:59:00
+Address	: IM-BAJAJF
+Status	: NOT_RECEIVED
+Message	: Dear Customer, we have received a drawdown request for an amount of Rs 100000 for your Flexisaver facility no - 401SAF31652621 . Your request number is 471301 .Thank you for choosing Bajaj Finserv-Lending.
+
+#151
+Type	: Incoming
+Date	: 2017-09-18 12:58:32
+Address	: VK-BajajF
+Status	: NOT_RECEIVED
+Message	: Your Bajaj Finance one time password is 42687. Enter this in the form to confirm your transaction.
+
+#152
+Type	: Incoming
+Date	: 2017-09-18 12:55:23
+Address	: VM-BajajF
+Status	: NOT_RECEIVED
+Message	: Your Bajaj Finance one time password is 25350. Enter this in the form to confirm your transaction.
+
+#153
+Type	: Incoming
+Date	: 2017-09-18 11:57:15
+Address	: +919891910125
+Status	: NOT_RECEIVED
+Message	: 9068578254
+
+#154
+Type	: Incoming
+Date	: 2017-09-18 11:49:55
+Address	: IM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, you recently transacted at a Non-ICICI Bank ATM. You could also use ICICI Bank ATMs for all your future transactions.
+
+#155
+Type	: Incoming
+Date	: 2017-09-18 11:24:38
+Address	: IM-GOIBIB
+Status	: NOT_RECEIVED
+Message	: You have Rs.2000 in your goCash wallet. Download the goibibo app or sign up to claim and save on your travel bookings. http://go.ibi.bo/W1ad/YvOfu0gVoG
+
+#156
+Type	: Incoming
+Date	: 2017-09-18 06:42:40
+Address	: +919990009410
+Status	: NOT_RECEIVED
+Message	: Sir Mai aur Roopender bhi aapke sath chalege...9 tak aajana....
+
+#157
+Type	: Incoming
+Date	: 2017-09-17 19:27:08
+Address	: +918909902760
+Status	: NOT_RECEIVED
+Message	: Park ke samney hu
+
+#158
+Type	: Incoming
+Date	: 2017-09-17 19:05:05
+Address	: +918077757326
+Status	: NOT_RECEIVED
+Message	: I call you after 5 min later
+
+#159
+Type	: Incoming
+Date	: 2017-09-17 16:29:04
+Address	: IM-LENSKT
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Order Number : 1212813507 is ready for pickup from Lenskart store. Please collect your item/s from the store. Thanks for shopping with us! Click here to reduce SMS updates for your order http://lenskt.in/1u3wd
+
+#160
+Type	: Incoming
+Date	: 2017-09-17 15:59:00
+Address	: +919826470440
+Status	: NOT_RECEIVED
+Message	: 09807199606
+
+#161
+Type	: Incoming
+Date	: 2017-09-17 13:44:08
+Address	: IM-RESELL
+Status	: NOT_RECEIVED
+Message	: Supertech Capetown Dear Sir /Madam I have confirm buyer for your flat. Clean and clear deal. if interested for sell , Plz call-7838420261
+
+#162
+Type	: Incoming
+Date	: 2017-09-17 12:36:36
+Address	: +918077757326
+Status	: NOT_RECEIVED
+Message	: 9555728068
+
+#163
+Type	: Incoming
+Date	: 2017-09-17 11:38:42
+Address	: DM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 18-Sep-17. Info: NFS*CASH WDL*17-09-17. The Available Balance is INR 24,784.59.
+
+#164
+Type	: Incoming
+Date	: 2017-09-17 11:38:10
+Address	: DM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your Account XX2699 has been debited with INR 10,000.00 on 18-Sep-17. Info: NFS*CASH WDL*17-09-17. The Available Balance is INR 34,784.59.
+
+#165
+Type	: Incoming
+Date	: 2017-09-17 11:19:07
+Address	: +918077757326
+Status	: NOT_RECEIVED
+Message	: 8285759377
+
+#166
+Type	: Incoming
+Date	: 2017-09-17 10:51:05
+Address	: CPC-PUNE
+Status	: NOT_RECEIVED
+Message	: Dear Idean, Today is last date for online submission of Reimbursement claim for Sep-17. Kindly ensure claim reaches circle dropbox by 17th Sep EOD.
+
+#167
+Type	: Incoming
+Date	: 2017-09-17 09:51:59
+Address	: AD-HLTHCH
+Status	: NOT_RECEIVED
+Message	: Buy One Get One FREE Full Body Checkup for Two at Rs 1299 (50+ Tests)-Thyroid(T3+T4+TSH) CBC,LFT,KFT,Lipid,Sugar. Miss Call 9213147825
+
+#168
+Type	: Incoming
+Date	: 2017-09-17 07:49:15
+Address	: HP-WHSAPP
+Status	: NOT_RECEIVED
+Message	: WhatsApp code 709-837. You can also tap on this link to verify your phone: v.whatsapp.com/709837
+
